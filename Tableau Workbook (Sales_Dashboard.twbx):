@@ -1,0 +1,19 @@
+Tableau Workbook (Sales_Dashboard.twbx)
+
+Create a New Tableau Workbook:
+
+Open Tableau and connect to the sales_data.csv file.
+Load the data into Tableau.
+Create Sheets:
+
+Total Sales: Create a sheet that shows total sales using a simple bar chart.
+Sales by Region: Create a sheet that visualizes sales by region using a map or a bar chart.
+Sales Trend: Create a line chart to show sales trends over time.
+Build the Dashboard:
+
+Create a new dashboard.
+Drag and drop the sheets you created onto the dashboard.
+Add filters and interactive elements to enhance user experience (e.g., date filters, region filters).
+Save the Workbook:
+
+Save the workbook as Sales_Dashboard.twbx.
