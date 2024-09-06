@@ -1,0 +1,17 @@
+# Sales Dashboard Project
+## Files
+- `sales_data.csv`: Contains sample sales data with columns for Date, Region, Product, and Sales.
+- `Sales_Dashboard.twbx`: Tableau workbook file with the dashboard visualizations.
+## Getting Started
+1. **Download Files:** Clone or download the repository to your local machine.
+2. **Open Tableau:** Open Tableau Desktop and load the `Sales_Dashboard.twbx` file.
+3. **Explore Dashboard:** Interact with the dashboard to view sales data visualizations.
+## Usage
+- **Total Sales:** View the total sales across all regions.
+- **Sales by Region:** Analyze sales distribution by region.
+- **Sales Trend:** Observe sales trends over time.
+## Requirements
+- Tableau Desktop (or Tableau Public) to view the Tableau workbook.
+- Basic knowledge of Tableau to understand and interact with the dashboard.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
